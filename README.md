@@ -18,7 +18,8 @@ El programa aplica un método de evaluación matemático con la slibreris numpy 
 
 5. Ejecuta el programa con el siguiente comando:
 
-**python arquetipo_jungiano.py**
+
+`python arquetipo_jungiano.py`
 
 
 
@@ -26,44 +27,43 @@ El programa aplica un método de evaluación matemático con la slibreris numpy 
 
 1. Asegúrate de tener Python 3 instalado. Puedes verificarlo con:
 
-python3 --version
+`python3 --version`
 
-yaml
+`yaml`
 
 
 Si no está instalado, puedes hacerlo con:
 
-sudo apt-get install python3
+`sudo apt-get install python3`
 
-markdown
+
 
 
 2. Instala la biblioteca `git` si aún no la tienes:
 
-sudo apt-get install git
+`sudo apt-get install git`
 
-markdown
+
 
 
 3. Clona el repositorio de GitHub en tu sistema:
 
-git clone https://github.com/cha0smagick/arquetipo-jungiano.git
+`git clone https://github.com/cha0smagick/arquetipo-jungiano.git`
 
-css
 
 
 4. Navega al directorio del programa:
 
-cd arquetipo-jungiano
+`cd arquetipo-jungiano`
 
-markdown
+
 
 
 5. Ejecuta el programa:
 
-python3 arquetipo_jungiano.py
+`python3 arquetipo_jungiano.py`
 
-markdown
+
 
 
 
@@ -71,44 +71,43 @@ markdown
 
 1. Asegúrate de tener Python 3 instalado. Puedes verificarlo con:
 
-python3 --version
+`python3 --version`
 
-yaml
+`yaml`
 
 
 Si no está instalado, puedes hacerlo con:
 
-sudo dnf install python3
+`sudo dnf install python3`
 
-markdown
+
 
 
 2. Instala la biblioteca `git` si aún no la tienes:
 
-sudo dnf install git
+`sudo dnf install git`
 
-markdown
 
 
 3. Clona el repositorio de GitHub en tu sistema:
 
-git clone https://github.com/cha0smagick/arquetipo-jungiano.git
+`git clone https://github.com/cha0smagick/arquetipo-jungiano.git`
 
-css
+
 
 
 4. Navega al directorio del programa:
 
-cd arquetipo-jungiano
+`cd arquetipo-jungiano`
 
-markdown
+
 
 
 5. Ejecuta el programa:
 
-python3 arquetipo_jungiano.py
+`python3 arquetipo_jungiano.py`
 
-markdown
+
 
 
 
@@ -121,10 +120,8 @@ El programa utiliza las siguientes bibliotecas de Python que deben estar instala
 
 Puedes instalar estas bibliotecas utilizando `pip`. Ejecuta los siguientes comandos:
 
-pip install numpy
-pip install scipy
-
-css
+`pip install numpy`
+`pip install scipy`
 
 
 ¡Ahora puedes explorar tu psicología interior con esta herramienta accesible y de código abierto!
