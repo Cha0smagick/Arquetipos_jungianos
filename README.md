@@ -1,10 +1,7 @@
 # Arquetipos_jungianos
 Este programa, creado por el Tecnomago Cha0smagick, utiliza un cuestionario exhaustivo con una amplia gama de preguntas cuidadosamente seleccionadas para ayudarte a descubrir tu arquetipo jungiano, basándose en los patrones universales de personalidad y comportamiento propuestos por Carl Jung. El cuestionario abarca temas que van desde la naturaleza y la creatividad hasta la responsabilidad y la rebeldía, y se basa en respuestas proporcionadas en una escala de 1 a 5.
 
-El programa aplica un método de evaluación que se basa en reglas definidas para cada arquetipo. Por ejemplo, si tus respuestas indican una fuerte conexión con la naturaleza y una tendencia a la introspección, es posible que se te sugiera el arquetipo "Sabio". Además, el programa proporciona un análisis detallado que muestra el porcentaje de probabilidad de que cada arquetipo sea el tuyo.
-
-**Descripción:**
-Este programa, desarrollado por el Tecnomago Cha0smagick, te ayuda a descubrir tu arquetipo jungiano mediante un cuestionario. Se basa en patrones universales de personalidad y comportamiento propuestos por Carl Jung. El programa está escrito en Python, es de acceso libre y abierto, y te proporciona una visión más profunda de tu psicología interior.
+El programa aplica un método de evaluación matemático con la slibreris numpy y scipy que se basa en reglas (deltas) definidas para cada arquetipo. Por ejemplo, si tus respuestas indican una fuerte conexión con la naturaleza y una tendencia a la introspección, es posible que se te sugiera el arquetipo "Sabio". Además, el programa proporciona un análisis detallado que muestra el porcentaje de probabilidad de que cada arquetipo sea el tuyo.
 
 **Instrucciones de Instalación:**
 
