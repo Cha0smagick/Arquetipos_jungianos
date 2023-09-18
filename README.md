@@ -3,4 +3,127 @@ Este programa, creado por el Tecnomago Cha0smagick, utiliza un cuestionario exha
 
 El programa aplica un método de evaluación que se basa en reglas definidas para cada arquetipo. Por ejemplo, si tus respuestas indican una fuerte conexión con la naturaleza y una tendencia a la introspección, es posible que se te sugiera el arquetipo "Sabio". Además, el programa proporciona un análisis detallado que muestra el porcentaje de probabilidad de que cada arquetipo sea el tuyo.
 
-Explora tu psicología interior y profundiza en la comprensión de tu yo a través de este fascinante programa que te presenta una ventana hacia los arquetipos jungianos y lo que podrían revelar sobre tu personalidad única.
+**Descripción:**
+Este programa, desarrollado por el Tecnomago Cha0smagick, te ayuda a descubrir tu arquetipo jungiano mediante un cuestionario. Se basa en patrones universales de personalidad y comportamiento propuestos por Carl Jung. El programa está escrito en Python, es de acceso libre y abierto, y te proporciona una visión más profunda de tu psicología interior.
+
+**Instrucciones de Instalación:**
+
+**Windows:**
+
+1. Asegúrate de tener Python 3 instalado en tu sistema. Si no lo tienes, descárgalo desde [python.org](https://www.python.org/downloads/) e instálalo.
+
+2. Descarga el código fuente del programa desde el repositorio de GitHub [aquí](https://github.com/cha0smagick/arquetipo-jungiano).
+
+3. Descomprime el archivo descargado en la ubicación de tu elección.
+
+4. Abre una terminal de comandos (CMD) y navega hasta la ubicación donde descomprimiste el archivo.
+
+5. Ejecuta el programa con el siguiente comando:
+
+python arquetipo_jungiano.py
+
+
+**Linux (Ubuntu/Debian):**
+
+1. Asegúrate de tener Python 3 instalado. Puedes verificarlo con:
+
+python3 --version
+
+yaml
+
+
+Si no está instalado, puedes hacerlo con:
+
+sudo apt-get install python3
+
+markdown
+
+
+2. Instala la biblioteca `git` si aún no la tienes:
+
+sudo apt-get install git
+
+markdown
+
+
+3. Clona el repositorio de GitHub en tu sistema:
+
+git clone https://github.com/cha0smagick/arquetipo-jungiano.git
+
+css
+
+
+4. Navega al directorio del programa:
+
+cd arquetipo-jungiano
+
+markdown
+
+
+5. Ejecuta el programa:
+
+python3 arquetipo_jungiano.py
+
+markdown
+
+
+**Linux (Fedora):**
+
+1. Asegúrate de tener Python 3 instalado. Puedes verificarlo con:
+
+python3 --version
+
+yaml
+
+
+Si no está instalado, puedes hacerlo con:
+
+sudo dnf install python3
+
+markdown
+
+
+2. Instala la biblioteca `git` si aún no la tienes:
+
+sudo dnf install git
+
+markdown
+
+
+3. Clona el repositorio de GitHub en tu sistema:
+
+git clone https://github.com/cha0smagick/arquetipo-jungiano.git
+
+css
+
+
+4. Navega al directorio del programa:
+
+cd arquetipo-jungiano
+
+markdown
+
+
+5. Ejecuta el programa:
+
+python3 arquetipo_jungiano.py
+
+markdown
+
+
+**Bibliotecas Requeridas:**
+
+El programa utiliza las siguientes bibliotecas de Python que deben estar instaladas:
+
+- `numpy`: Para realizar cálculos matemáticos.
+- `scipy`: Para realizar operaciones estadísticas.
+
+Puedes instalar estas bibliotecas utilizando `pip`. Ejecuta los siguientes comandos:
+
+pip install numpy
+pip install scipy
+
+css
+
+
+¡Ahora puedes explorar tu psicología interior con esta herramienta accesible y de código abierto!
