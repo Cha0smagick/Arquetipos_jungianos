@@ -5,6 +5,7 @@ El programa aplica un método de evaluación matemático con la slibreris numpy 
 
 **Instrucciones de Instalación:**
 
+
 **Windows:**
 
 1. Asegúrate de tener Python 3 instalado en tu sistema. Si no lo tienes, descárgalo desde [python.org](https://www.python.org/downloads/) e instálalo.
@@ -17,7 +18,8 @@ El programa aplica un método de evaluación matemático con la slibreris numpy 
 
 5. Ejecuta el programa con el siguiente comando:
 
-python arquetipo_jungiano.py
+**python arquetipo_jungiano.py**
+
 
 
 **Linux (Ubuntu/Debian):**
@@ -64,6 +66,7 @@ python3 arquetipo_jungiano.py
 markdown
 
 
+
 **Linux (Fedora):**
 
 1. Asegúrate de tener Python 3 instalado. Puedes verificarlo con:
@@ -106,6 +109,7 @@ markdown
 python3 arquetipo_jungiano.py
 
 markdown
+
 
 
 **Bibliotecas Requeridas:**
